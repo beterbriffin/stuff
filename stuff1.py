@@ -1,4 +1,4 @@
 x=1
-if x>7
-  x=x+1
+if x<10
   print(x)
+  x=x+1
